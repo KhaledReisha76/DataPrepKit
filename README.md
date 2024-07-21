@@ -8,8 +8,16 @@ Summary Statistics: Generate key summary statistics to gain quick insights into 
 Frequent Value Identification: Identify the most frequent value in any specified column to understand data distributions.
 Average Calculation: Compute the average of specified numerical columns to aid in basic statistical analysis.
 Categorical Data Encoding: Encode categorical data efficiently to prepare it for machine learning models and other analyses.
+Installation
+Clone the repository:
 
+bash
+Copy code
+git clone https://github.com/yourusername/DataPrepKit.git
+Install the necessary packages:
+
+bash
+Copy code
+pip install -r requirements.txt
 Usage
 DataPrepKit is designed to be user-friendly and integrates smoothly into your data analysis workflow. Import your data, handle missing values, generate descriptive statistics, and prepare your data for further analysis with ease.
-
-https://pypi.org/project/AbdelrahmanReisha/0.1.1/
